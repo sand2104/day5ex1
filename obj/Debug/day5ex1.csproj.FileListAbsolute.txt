@@ -1,0 +1,8 @@
+C:\data\day5ex1\day5ex1\bin\Debug\day5ex1.exe.config
+C:\data\day5ex1\day5ex1\bin\Debug\day5ex1.exe
+C:\data\day5ex1\day5ex1\bin\Debug\day5ex1.pdb
+C:\data\day5ex1\day5ex1\obj\Debug\day5ex1.csproj.AssemblyReference.cache
+C:\data\day5ex1\day5ex1\obj\Debug\day5ex1.csproj.SuggestedBindingRedirects.cache
+C:\data\day5ex1\day5ex1\obj\Debug\day5ex1.csproj.CoreCompileInputs.cache
+C:\data\day5ex1\day5ex1\obj\Debug\day5ex1.exe
+C:\data\day5ex1\day5ex1\obj\Debug\day5ex1.pdb
